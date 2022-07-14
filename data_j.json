@@ -1,0 +1,88 @@
+{
+    "content": [
+        {
+        "animalName": "Asian elephant",
+        "extinctionLevel": "EN",
+        "trivia": "They drink up to 200 litres of water per day.",
+        "imageUrl": "https://orientarium.lodz.pl/assets/2021/11/Slon-indyjski-3-591x601.jpg",
+        "question": "How many kilograms of plant material can an elephant eat?",
+        "answers": [
+        "20 kg",
+        "50 kg",
+        "75 kg",
+        "150 kg"
+        ],
+        "correctIndex": 4
+        },
+        {
+        "animalName": "Asian small-clawed otter",
+        "extinctionLevel": "VU",
+        "trivia": "The otters close their nostrils and ears when swimming below the surface water.",
+        "imageUrl": "https://orientarium.lodz.pl/assets/2021/11/Wyderka-orientalna-1-591x601.jpg",
+        "question": "In which continent there are NO otters species?",
+        "answers": [
+        "Africa",
+        "Australia",
+        "North America",
+        "South America"
+        ],
+        "correctIndex": 2
+        },
+        {
+        "animalName": "Sumatran orangutan",
+        "extinctionLevel": "CR",
+        "trivia": "Orangutans are the heaviest tree-dwelling animal",
+        "imageUrl": "https://orientarium.lodz.pl/assets/2022/01/orangutan-sumatrzanski-591x601.jpg",
+        "question": "How long orangutans are fully dependent on their mother?",
+        "answers": [
+        "7 years",
+        "2 years",
+        "18 years",
+        "1 year"
+        ],
+        "correctIndex": 1
+        },
+        {
+        "animalName": "Yellow-cheeked gibbon",
+        "extinctionLevel": "EN",
+        "trivia": "Yellow-cheeked gibbons are diurnal and notoriously early-risers. Each morning, beginning at around sunrise, male and females sing to each other.",
+        "imageUrl": "https://zoo.gda.pl/wp-content/uploads/Gibbon-4-350x350.jpg",
+        "question": "How yellow-cheeked gibon are realted to war in Vietnam?",
+        "answers": [
+        "They were used by military",
+        "This is one of the reasons why they going extinct. Napalm bombs, defoliants affected their habitat",
+        "They were brought from Vietnam to USA as a mascot",
+        "They were eaten by soliders"
+        ],
+        "correctIndex": 2
+        },
+        {
+        "animalName": "Javan langur",
+        "extinctionLevel": "VU",
+        "trivia": "East Javan langurs are picky eaters. They love fresh, young leaves. Because of this inconvenient diet, not many zoos keep East Javan langurs. There are only about 120 of them in Europe.",
+        "imageUrl": "https://orientarium.lodz.pl/assets/2021/11/Lutung-jawajski-1-591x601.jpg",
+        "question": "Why langurs are vulnerable to extinction?",
+        "answers": [
+        "deforestation and hunting",
+        "deforestation and fires",
+        "hunting and global warming",
+        "The ascending sea-level"
+        ],
+        "correctIndex": 1
+        },
+        {
+        "animalName": "Binturong",
+        "extinctionLevel": "VU",
+        "trivia": "Binturongs are often described as a keystone species within their ecosystems. They are the only known disperser of strangler fig seeds as they have the digestive enzymes required to soften its seed coat.",
+        "imageUrl": "https://orientarium.lodz.pl/assets/2021/11/Binturong-4-591x601.jpg",
+        "question": "What is attractive for poachers?",
+        "answers": [
+        "toenails",
+        "They are sold as a pets",
+        "meattoenails",
+        "teeth"
+        ],
+        "correctIndex": 3
+        }
+    ]
+}
