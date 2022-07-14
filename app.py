@@ -1,6 +1,6 @@
 # import main Flask class and request object
 from flask import Flask, request
-from load_json import get_data
+from load_sample_response import get_data
 
 # temp
 response = ''
