@@ -15,10 +15,12 @@ def classify_animal():
     if request.method == 'POST':
         request_data = request.data
     # encoded Base64
-
+    
     # decode data
+    base64 = '''Decoded Base64 Object'''
 
-    return 'Decoded Base64 Object'
+
+    return 'Output from model'
 
 if __name__ == '__main__':
     # run app in debug mode on port 5000
