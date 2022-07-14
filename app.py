@@ -1,8 +1,9 @@
 # import main Flask class and request object
 from flask import Flask, request
+from load_json import get_data
 
+# temp
 response = ''
-
 # create the Flask app
 app = Flask(__name__)
 
@@ -14,11 +15,13 @@ def classify_animal():
 
     if request.method == 'POST':
         request_data = request.data
-    # encoded Base64
-
-    # decode data
-
-    return 'Decoded Base64 Object'
+    # send request data to model
+    
+    # get response
+    response = get_data()
+        
+    # send response back to app
+    return response
 
 if __name__ == '__main__':
     # run app in debug mode on port 5000
