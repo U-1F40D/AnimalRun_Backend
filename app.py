@@ -7,6 +7,10 @@ response = ''
 # create the Flask app
 app = Flask(__name__)
 
+@app.route('/', methods=['GET'])
+def hello():
+    return "Hello"
+
 
 @app.route('/classify-animal', methods=['GET', 'POST'])
 def classify_animal():
